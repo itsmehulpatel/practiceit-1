@@ -11,7 +11,7 @@ public void collapseSpaces(Scanner sc) {
         
         while(linesc.hasNext())
             System.out.print(linesc.next() + " ");
-        
+    }
         System.out.println();
     }
 }
